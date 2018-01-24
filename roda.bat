@@ -1,0 +1,11 @@
+start java -cp "goleiro" A1 -team Kevin
+start java -cp "atkCen" A1 -team Kevin
+start java -cp "atkDir" A1 -team Kevin
+start java -cp "atkEsq" A1 -team Kevin
+start java -cp "lateralDir" A1 -team Kevin
+start java -cp "lateralEsq" A1 -team Kevin
+start java -cp "meioCampo" A1 -team Kevin
+start java -cp "zagueiroDir" A1 -team Kevin
+start java -cp "zagueiroEsq" A1 -team Kevin
+start java -cp "voleiroDir" A1 -team Kevin
+start java -cp "voleiroEsq" A1 -team Kevin

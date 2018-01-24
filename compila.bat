@@ -1,0 +1,11 @@
+javac atkCen/*.java
+javac atkDir/*.java
+javac atkEsq/*.java
+javac goleiro/*.java
+javac lateralDir/*.java
+javac lateralEsq/*.java
+javac meioCampo/*.java
+javac voleiroDir/*.java
+javac voleiroEsq/*.java
+javac zagueiroDir/*.java
+javac zagueiroEsq/*.java
