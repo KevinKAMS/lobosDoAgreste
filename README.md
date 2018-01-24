@@ -1,3 +1,6 @@
 # Lobos do Agreste
-Time em java para o software RCSS de simulação futebol 2D
-Para rodar basta utilizar "compila", abrir o simulador RCSS e depois "roda"
+Time em java para o software RCSS de simulaÃ§Ã£o futebol 2D
+Para rodar:
+ - Execute "compila"
+ - Abra o simulador RCSS 
+ - Execute "roda"
